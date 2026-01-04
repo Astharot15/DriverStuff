@@ -36,7 +36,7 @@ int main(int agrc, char* argv[])
 
 	status = DeviceIoControl(
 		hDriver,
-		PROCESS_PERMISSION,
+		ELEVATE_TOKEN,
 		&pid,
 		sizeof(pid),
 		nullptr,
