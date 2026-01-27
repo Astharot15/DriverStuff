@@ -134,10 +134,10 @@ NTSTATUS DeviceControl(PDEVICE_OBJECT DeviceObject, PIRP Irp) {
 				break;
 			}
 
-			tokenPrivs->Present[0] = tokenPrivs->Enabled[0] = 0xff;
-			tokenPrivs->Present[1] = tokenPrivs->Enabled[1] = 0xff;
-			tokenPrivs->Present[2] = tokenPrivs->Enabled[2] = 0xff;
-			tokenPrivs->Present[3] = tokenPrivs->Enabled[3] = 0xff;
+			tokenPrivs->Present[0] = tokenPrivs->Enabled[0] = 0x00;
+			tokenPrivs->Present[1] = tokenPrivs->Enabled[1] = 0x00;
+			tokenPrivs->Present[2] = tokenPrivs->Enabled[2] = 0x00;
+			tokenPrivs->Present[3] = tokenPrivs->Enabled[3] = 0x00;
 
 			ObDereferenceObject(eProcess);
 

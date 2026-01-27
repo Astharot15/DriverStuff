@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|solutionrelative:KMDF Driver1\\driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|solutionrelative:KMDF Driver1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\x64\\Debug\\inf2catOutput.log||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KMDF Driver1\\x64\\Debug\\inf2catOutput.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|solutionrelative:KMDF Driver1\\driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\ioctl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|solutionrelative:KMDF Driver1\\ioctl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E34DE3B0-439F-40D0-8D95-7AA9FBE0F3C8}|driverClient\\driverClient.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\driverClient\\driverClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E34DE3B0-439F-40D0-8D95-7AA9FBE0F3C8}|driverClient\\driverClient.vcxproj|solutionrelative:driverClient\\driverClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\ioctl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|solutionrelative:KMDF Driver1\\ioctl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\x64\\Debug\\inf2catOutput.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KMDF Driver1\\x64\\Debug\\inf2catOutput.log||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28C79524-2D8D-FE0D-FEB0-27FE06BB2FB6}|KMDF Driver1\\KMDF Driver1.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.26100.0\\KM\\NTIFS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -45,19 +45,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "inf2catOutput.log",
-              "DocumentMoniker": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\x64\\Debug\\inf2catOutput.log",
-              "RelativeDocumentMoniker": "KMDF Driver1\\x64\\Debug\\inf2catOutput.log",
-              "ToolTip": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\x64\\Debug\\inf2catOutput.log",
-              "RelativeToolTip": "KMDF Driver1\\x64\\Debug\\inf2catOutput.log",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-04T17:34:36.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ntifs.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\km\\ntifs.h",
@@ -70,7 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ioctl.h",
               "DocumentMoniker": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\ioctl.h",
               "RelativeDocumentMoniker": "KMDF Driver1\\ioctl.h",
@@ -78,8 +65,7 @@
               "RelativeToolTip": "KMDF Driver1\\ioctl.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-28T23:01:21.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T23:01:21.18Z"
             },
             {
               "$type": "Document",
@@ -89,36 +75,46 @@
               "RelativeDocumentMoniker": "driverClient\\driverClient.cpp",
               "ToolTip": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\driverClient\\driverClient.cpp",
               "RelativeToolTip": "driverClient\\driverClient.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-28T19:41:56.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T19:41:56.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "driver.h",
               "DocumentMoniker": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\driver.h",
               "RelativeDocumentMoniker": "KMDF Driver1\\driver.h",
               "ToolTip": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\driver.h",
               "RelativeToolTip": "KMDF Driver1\\driver.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-27T08:59:49.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T08:59:49.216Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\main.cpp",
               "RelativeDocumentMoniker": "KMDF Driver1\\main.cpp",
               "ToolTip": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\main.cpp",
               "RelativeToolTip": "KMDF Driver1\\main.cpp",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAAF0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-26T20:30:38.493Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inf2catOutput.log",
+              "DocumentMoniker": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\x64\\Debug\\inf2catOutput.log",
+              "RelativeDocumentMoniker": "KMDF Driver1\\x64\\Debug\\inf2catOutput.log",
+              "ToolTip": "C:\\Users\\astharot\\Desktop\\exploiting\\driverDevelopment\\unprotect\\KMDF Driver1\\x64\\Debug\\inf2catOutput.log",
+              "RelativeToolTip": "KMDF Driver1\\x64\\Debug\\inf2catOutput.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-04T17:34:36.089Z"
             },
             {
               "$type": "Document",

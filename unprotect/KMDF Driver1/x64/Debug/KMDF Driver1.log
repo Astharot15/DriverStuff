@@ -1,6 +1,6 @@
 ﻿  Building 'unprotect' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
   Stamping x64\Debug\KMDFDriver1.inf
-  Stamping [Version] section with DriverVer=01/04/2026,17.52.59.460
+  Stamping [Version] section with DriverVer=01/04/2026,18.36.45.128
   main.cpp
   KMDF Driver1.vcxproj -> C:\Users\astharot\Desktop\exploiting\driverDevelopment\unprotect\x64\Debug\unprotect.sys
   Done Adding Additional Store
