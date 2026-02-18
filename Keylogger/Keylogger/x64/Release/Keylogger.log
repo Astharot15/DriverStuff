@@ -1,0 +1,23 @@
+﻿  Building 'Keylogger' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\Keylogger.inf
+  Stamping [Version] section with DriverVer=01/27/2026,16.58.28.316
+  main.cpp
+  Keylogger.vcxproj -> C:\Users\astharot\Desktop\exploiting\Keylogger\x64\Release\Keylogger.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\astharot\Desktop\exploiting\Keylogger\x64\Release\Keylogger.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\astharot\Desktop\exploiting\Keylogger\x64\Release\Keylogger\keylogger.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\astharot\Desktop\exploiting\Keylogger\x64\Release\Keylogger\keylogger.cat
+  
