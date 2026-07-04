@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\astharot\\Desktop\\exploiting\\Keylogger\\",
+  "WorkspaceRootPath": "C:\\Users\\astharot\\Desktop\\exploiting\\driverStuff\\Keylogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD235733-0CDD-D321-5072-9162D96F942B}|Keylogger\\Keylogger.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\Keylogger\\Keylogger\\driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD235733-0CDD-D321-5072-9162D96F942B}|Keylogger\\Keylogger.vcxproj|solutionrelative:Keylogger\\driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD235733-0CDD-D321-5072-9162D96F942B}|Keylogger\\Keylogger.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\driverStuff\\Keylogger\\Keylogger\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD235733-0CDD-D321-5072-9162D96F942B}|Keylogger\\Keylogger.vcxproj|solutionrelative:Keylogger\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD235733-0CDD-D321-5072-9162D96F942B}|Keylogger\\Keylogger.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\Keylogger\\Keylogger\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BD235733-0CDD-D321-5072-9162D96F942B}|Keylogger\\Keylogger.vcxproj|solutionrelative:Keylogger\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{BD235733-0CDD-D321-5072-9162D96F942B}|Keylogger\\Keylogger.vcxproj|C:\\Users\\astharot\\Desktop\\exploiting\\driverStuff\\Keylogger\\Keylogger\\driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD235733-0CDD-D321-5072-9162D96F942B}|Keylogger\\Keylogger.vcxproj|solutionrelative:Keylogger\\driver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "driver.h",
-              "DocumentMoniker": "C:\\Users\\astharot\\Desktop\\exploiting\\Keylogger\\Keylogger\\driver.h",
+              "DocumentMoniker": "C:\\Users\\astharot\\Desktop\\exploiting\\driverStuff\\Keylogger\\Keylogger\\driver.h",
               "RelativeDocumentMoniker": "Keylogger\\driver.h",
-              "ToolTip": "C:\\Users\\astharot\\Desktop\\exploiting\\Keylogger\\Keylogger\\driver.h",
+              "ToolTip": "C:\\Users\\astharot\\Desktop\\exploiting\\driverStuff\\Keylogger\\Keylogger\\driver.h",
               "RelativeToolTip": "Keylogger\\driver.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-20T23:36:20.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T23:36:20.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\astharot\\Desktop\\exploiting\\Keylogger\\Keylogger\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\astharot\\Desktop\\exploiting\\driverStuff\\Keylogger\\Keylogger\\main.cpp",
               "RelativeDocumentMoniker": "Keylogger\\main.cpp",
-              "ToolTip": "C:\\Users\\astharot\\Desktop\\exploiting\\Keylogger\\Keylogger\\main.cpp",
+              "ToolTip": "C:\\Users\\astharot\\Desktop\\exploiting\\driverStuff\\Keylogger\\Keylogger\\main.cpp",
               "RelativeToolTip": "Keylogger\\main.cpp",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAYwI4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-20T23:31:27.638Z",
               "EditorCaption": ""
